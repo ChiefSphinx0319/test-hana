@@ -1,5 +1,5 @@
 class test {
     public static void main(String [] args) {
-        sadas
+        sadas  asdasdadsdsasdasd
     }
 }
